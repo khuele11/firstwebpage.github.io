@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
+
 title: Welcome to Khue's first Github page!
+
+Description: Bookmark this page for my updates on CS322
 
 You can use the [editor on GitHub](https://github.com/khuele11/firstwebpage.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
